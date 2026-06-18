@@ -1,4 +1,5 @@
 #Online Bookstore Analytics System | SQL Database Design, Business Analysis & Power BI Dashboard
+
 End-to-end bookstore analytics: self-designed SQL schema with revenue/customer queries, paired with a Power BI dashboard visualizing genre performance and sales trends
 # Online Bookstore Analysis (SQL + Power BI)
 
